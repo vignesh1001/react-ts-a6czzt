@@ -1,0 +1,1422 @@
+{
+  "2700057": {
+      "eligible_transactions": 6555,
+      "days": 35,
+      "mashgin_transactions": 131,
+      "percent_eli": "2.00"
+  },
+  "2700103": {
+      "eligible_transactions": 13292,
+      "days": 43,
+      "mashgin_transactions": 378,
+      "percent_eli": "2.84"
+  },  
+  "2700127": {
+      "eligible_transactions": 22622,
+      "days": 44,
+      "mashgin_transactions": 180,
+      "percent_eli": "0.80"
+  },
+  "2700166": {
+      "eligible_transactions": 11621,
+      "days": 34,
+      "mashgin_transactions": 172,
+      "percent_eli": "1.48"
+  },
+  "2700756": {
+      "eligible_transactions": 1620,
+      "days": 12,
+      "mashgin_transactions": 59,
+      "percent_eli": "3.64"
+  },
+  "2700785": {
+      "eligible_transactions": 7558,
+      "days": 34,
+      "mashgin_transactions": 120,
+      "percent_eli": "1.59"
+  },
+  "2700805": {
+      "eligible_transactions": 11263,
+      "days": 34,
+      "mashgin_transactions": 167,
+      "percent_eli": "1.48"
+  },
+  "2700809": {
+      "eligible_transactions": 9721,
+      "days": 35,
+      "mashgin_transactions": 97,
+      "percent_eli": "1.00"
+  },
+  "2700811": {
+      "eligible_transactions": 7391,
+      "days": 34,
+      "mashgin_transactions": 114,
+      "percent_eli": "1.54"
+  },
+  "2700849": {
+      "eligible_transactions": 11074,
+      "days": 41,
+      "mashgin_transactions": 192,
+      "percent_eli": "1.73"
+  },
+  "2700916": {
+      "mashgin_transactions": 68,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2701149": {
+      "eligible_transactions": 23936,
+      "days": 78,
+      "mashgin_transactions": 1374,
+      "percent_eli": "5.74"
+  },
+  "2701198": {
+      "eligible_transactions": 26835,
+      "days": 42,
+      "mashgin_transactions": 459,
+      "percent_eli": "1.71"
+  },
+  "2701225": {
+      "eligible_transactions": 12954,
+      "days": 42,
+      "mashgin_transactions": 326,
+      "percent_eli": "2.52"
+  },
+  "2701250": {
+      "eligible_transactions": 6486,
+      "days": 35,
+      "mashgin_transactions": 72,
+      "percent_eli": "1.11"
+  },
+  "2701343": {
+      "eligible_transactions": 11481,
+      "days": 44,
+      "mashgin_transactions": 378,
+      "percent_eli": "3.29"
+  },
+  "2701347": {
+      "eligible_transactions": 11953,
+      "days": 43,
+      "mashgin_transactions": 262,
+      "percent_eli": "2.19"
+  },
+  "2701354": {
+      "eligible_transactions": 2251,
+      "days": 14,
+      "mashgin_transactions": 93,
+      "percent_eli": "4.13"
+  },
+  "2701431": {
+      "mashgin_transactions": 75,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2701449": {
+      "mashgin_transactions": 31,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2701569": {
+      "eligible_transactions": 26911,
+      "days": 77,
+      "mashgin_transactions": 1172,
+      "percent_eli": "4.36"
+  },
+  "2701574": {
+      "eligible_transactions": 34134,
+      "days": 78,
+      "mashgin_transactions": 2862,
+      "percent_eli": "8.38"
+  },
+  "2701576": {
+      "eligible_transactions": 18628,
+      "days": 41,
+      "mashgin_transactions": 372,
+      "percent_eli": "2.00"
+  },
+  "2701583": {
+      "mashgin_transactions": 39,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2701634": {
+      "eligible_transactions": 10358,
+      "days": 35,
+      "mashgin_transactions": 154,
+      "percent_eli": "1.49"
+  },
+  "2701646": {
+      "eligible_transactions": 5135,
+      "days": 42,
+      "mashgin_transactions": 194,
+      "percent_eli": "3.78"
+  },
+  "2701662": {
+      "eligible_transactions": 29125,
+      "days": 77,
+      "mashgin_transactions": 1242,
+      "percent_eli": "4.26"
+  },
+  "2701667": {
+      "eligible_transactions": 12323,
+      "days": 43,
+      "mashgin_transactions": 143,
+      "percent_eli": "1.16"
+  },
+  "2701671": {
+      "eligible_transactions": 14296,
+      "days": 42,
+      "mashgin_transactions": 377,
+      "percent_eli": "2.64"
+  },
+  "2701673": {
+      "eligible_transactions": 16163,
+      "days": 41,
+      "mashgin_transactions": 305,
+      "percent_eli": "1.89"
+  },
+  "2701741": {
+      "eligible_transactions": 12679,
+      "days": 76,
+      "mashgin_transactions": 471,
+      "percent_eli": "3.71"
+  },
+  "2701750": {
+      "eligible_transactions": 11259,
+      "days": 41,
+      "mashgin_transactions": 100,
+      "percent_eli": "0.89"
+  },
+  "2701773": {
+      "eligible_transactions": 14779,
+      "days": 34,
+      "mashgin_transactions": 206,
+      "percent_eli": "1.39"
+  },
+  "2701785": {
+      "eligible_transactions": 13296,
+      "days": 41,
+      "mashgin_transactions": 104,
+      "percent_eli": "0.78"
+  },
+  "2701798": {
+      "mashgin_transactions": 24,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2701832": {
+      "eligible_transactions": 12085,
+      "days": 35,
+      "mashgin_transactions": 208,
+      "percent_eli": "1.72"
+  },
+  "2701840": {
+      "eligible_transactions": 16097,
+      "days": 41,
+      "mashgin_transactions": 298,
+      "percent_eli": "1.85"
+  },
+  "2701844": {
+      "eligible_transactions": 25167,
+      "days": 78,
+      "mashgin_transactions": 1778,
+      "percent_eli": "7.06"
+  },
+  "2701848": {
+      "eligible_transactions": 6926,
+      "days": 35,
+      "mashgin_transactions": 122,
+      "percent_eli": "1.76"
+  },
+  "2701908": {
+      "mashgin_transactions": 217,
+      "days": 42,
+      "percent_eli": 0
+  },
+  "2701918": {
+      "eligible_transactions": 11190,
+      "days": 44,
+      "mashgin_transactions": 108,
+      "percent_eli": "0.97"
+  },
+  "2701933": {
+      "mashgin_transactions": 8,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2701944": {
+      "mashgin_transactions": 39,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2701946": {
+      "eligible_transactions": 20391,
+      "days": 71,
+      "mashgin_transactions": 1065,
+      "percent_eli": "5.22"
+  },
+  "2701950": {
+      "eligible_transactions": 11995,
+      "days": 43,
+      "mashgin_transactions": 196,
+      "percent_eli": "1.63"
+  },
+  "2701953": {
+      "eligible_transactions": 12198,
+      "days": 35,
+      "mashgin_transactions": 297,
+      "percent_eli": "2.43"
+  },
+  "2701974": {
+      "eligible_transactions": 21252,
+      "days": 77,
+      "mashgin_transactions": 582,
+      "percent_eli": "2.74"
+  },
+  "2701985": {
+      "eligible_transactions": 10446,
+      "days": 35,
+      "mashgin_transactions": 205,
+      "percent_eli": "1.96"
+  },
+  "2701996": {
+      "eligible_transactions": 9662,
+      "days": 42,
+      "mashgin_transactions": 135,
+      "percent_eli": "1.40"
+  },
+  "2702835": {
+      "eligible_transactions": 8924,
+      "days": 43,
+      "mashgin_transactions": 362,
+      "percent_eli": "4.06"
+  },
+  "2702844": {
+      "eligible_transactions": 22182,
+      "days": 78,
+      "mashgin_transactions": 1036,
+      "percent_eli": "4.67"
+  },
+  "2702872": {
+      "eligible_transactions": 14550,
+      "days": 43,
+      "mashgin_transactions": 528,
+      "percent_eli": "3.63"
+  },
+  "2702885": {
+      "mashgin_transactions": 310,
+      "days": 42,
+      "percent_eli": 0
+  },
+  "2702891": {
+      "eligible_transactions": 33835,
+      "days": 77,
+      "mashgin_transactions": 1634,
+      "percent_eli": "4.83"
+  },
+  "2702902": {
+      "mashgin_transactions": 91,
+      "days": 7,
+      "percent_eli": 0
+  },
+  "2702907": {
+      "eligible_transactions": 9279,
+      "days": 34,
+      "mashgin_transactions": 95,
+      "percent_eli": "1.02"
+  },
+  "2702915": {
+      "eligible_transactions": 1430,
+      "days": 7,
+      "mashgin_transactions": 24,
+      "percent_eli": "1.68"
+  },
+  "2702936": {
+      "mashgin_transactions": 29,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2702939": {
+      "mashgin_transactions": 55,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2702944": {
+      "eligible_transactions": 10729,
+      "days": 34,
+      "mashgin_transactions": 838,
+      "percent_eli": "7.81"
+  },
+  "2703106": {
+      "mashgin_transactions": 11,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703366": {
+      "mashgin_transactions": 32,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703369": {
+      "eligible_transactions": 23767,
+      "days": 69,
+      "mashgin_transactions": 880,
+      "percent_eli": "3.70"
+  },
+  "2703370": {
+      "eligible_transactions": 4327,
+      "days": 13,
+      "mashgin_transactions": 133,
+      "percent_eli": "3.07"
+  },
+  "2703371": {
+      "eligible_transactions": 4586,
+      "days": 14,
+      "mashgin_transactions": 45,
+      "percent_eli": "0.98"
+  },
+  "2703372": {
+      "eligible_transactions": 35275,
+      "days": 122,
+      "mashgin_transactions": 4459,
+      "percent_eli": "12.64"
+  },
+  "2703373": {
+      "eligible_transactions": 42372,
+      "days": 90,
+      "mashgin_transactions": 3010,
+      "percent_eli": "7.10"
+  },
+  "2703377": {
+      "eligible_transactions": 25683,
+      "days": 79,
+      "mashgin_transactions": 2282,
+      "percent_eli": "8.89"
+  },
+  "2703378": {
+      "eligible_transactions": 13231,
+      "days": 72,
+      "mashgin_transactions": 525,
+      "percent_eli": "3.97"
+  },
+  "2703381": {
+      "eligible_transactions": 16691,
+      "days": 41,
+      "mashgin_transactions": 419,
+      "percent_eli": "2.51"
+  },
+  "2703383": {
+      "eligible_transactions": 40150,
+      "days": 122,
+      "mashgin_transactions": 10829,
+      "percent_eli": "26.97"
+  },
+  "2703385": {
+      "eligible_transactions": 34859,
+      "days": 122,
+      "mashgin_transactions": 6145,
+      "percent_eli": "17.63"
+  },
+  "2703386": {
+      "eligible_transactions": 25551,
+      "days": 70,
+      "mashgin_transactions": 1138,
+      "percent_eli": "4.45"
+  },
+  "2703387": {
+      "eligible_transactions": 22851,
+      "days": 70,
+      "mashgin_transactions": 604,
+      "percent_eli": "2.64"
+  },
+  "2703388": {
+      "eligible_transactions": 42385,
+      "days": 122,
+      "mashgin_transactions": 5938,
+      "percent_eli": "14.01"
+  },
+  "2703390": {
+      "eligible_transactions": 40638,
+      "days": 91,
+      "mashgin_transactions": 980,
+      "percent_eli": "2.41"
+  },
+  "2703392": {
+      "eligible_transactions": 17517,
+      "days": 72,
+      "mashgin_transactions": 1018,
+      "percent_eli": "5.81"
+  },
+  "2703395": {
+      "eligible_transactions": 29118,
+      "days": 72,
+      "mashgin_transactions": 1644,
+      "percent_eli": "5.65"
+  },
+  "2703397": {
+      "eligible_transactions": 26167,
+      "days": 71,
+      "mashgin_transactions": 2633,
+      "percent_eli": "10.06"
+  },
+  "2703399": {
+      "eligible_transactions": 7979,
+      "days": 22,
+      "mashgin_transactions": 279,
+      "percent_eli": "3.50"
+  },
+  "2703401": {
+      "mashgin_transactions": 5,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703403": {
+      "eligible_transactions": 47200,
+      "days": 76,
+      "mashgin_transactions": 516,
+      "percent_eli": "1.09"
+  },
+  "2703405": {
+      "eligible_transactions": 11998,
+      "days": 20,
+      "mashgin_transactions": 127,
+      "percent_eli": "1.06"
+  },
+  "2703406": {
+      "mashgin_transactions": 29,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703410": {
+      "mashgin_transactions": 38,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703419": {
+      "mashgin_transactions": 242,
+      "days": 27,
+      "percent_eli": 0
+  },
+  "2703424": {
+      "mashgin_transactions": 61,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2703425": {
+      "eligible_transactions": 9209,
+      "days": 22,
+      "mashgin_transactions": 225,
+      "percent_eli": "2.44"
+  },
+  "2703440": {
+      "eligible_transactions": 44467,
+      "days": 79,
+      "mashgin_transactions": 7503,
+      "percent_eli": "16.87"
+  },
+  "2703441": {
+      "eligible_transactions": 12560,
+      "days": 72,
+      "mashgin_transactions": 785,
+      "percent_eli": "6.25"
+  },
+  "2703442": {
+      "eligible_transactions": 20674,
+      "days": 79,
+      "mashgin_transactions": 1043,
+      "percent_eli": "5.04"
+  },
+  "2703445": {
+      "eligible_transactions": 34142,
+      "days": 122,
+      "mashgin_transactions": 3222,
+      "percent_eli": "9.44"
+  },
+  "2703447": {
+      "eligible_transactions": 35844,
+      "days": 77,
+      "mashgin_transactions": 2148,
+      "percent_eli": "5.99"
+  },
+  "2703448": {
+      "eligible_transactions": 9331,
+      "days": 20,
+      "mashgin_transactions": 115,
+      "percent_eli": "1.23"
+  },
+  "2703452": {
+      "eligible_transactions": 32809,
+      "days": 122,
+      "mashgin_transactions": 3028,
+      "percent_eli": "9.23"
+  },
+  "2703459": {
+      "eligible_transactions": 20992,
+      "days": 76,
+      "mashgin_transactions": 796,
+      "percent_eli": "3.79"
+  },
+  "2703461": {
+      "eligible_transactions": 4287,
+      "days": 21,
+      "mashgin_transactions": 55,
+      "percent_eli": "1.28"
+  },
+  "2703462": {
+      "eligible_transactions": 24903,
+      "days": 122,
+      "mashgin_transactions": 6719,
+      "percent_eli": "26.98"
+  },
+  "2703463": {
+      "eligible_transactions": 49196,
+      "days": 122,
+      "mashgin_transactions": 2813,
+      "percent_eli": "5.72"
+  },
+  "2703470": {
+      "mashgin_transactions": 18,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703472": {
+      "eligible_transactions": 32368,
+      "days": 57,
+      "mashgin_transactions": 1838,
+      "percent_eli": "5.68"
+  },
+  "2703473": {
+      "eligible_transactions": 26583,
+      "days": 57,
+      "mashgin_transactions": 1599,
+      "percent_eli": "6.02"
+  },
+  "2703477": {
+      "eligible_transactions": 18314,
+      "days": 72,
+      "mashgin_transactions": 845,
+      "percent_eli": "4.61"
+  },
+  "2703479": {
+      "eligible_transactions": 27264,
+      "days": 58,
+      "mashgin_transactions": 1529,
+      "percent_eli": "5.61"
+  },
+  "2703482": {
+      "eligible_transactions": 30929,
+      "days": 70,
+      "mashgin_transactions": 1100,
+      "percent_eli": "3.56"
+  },
+  "2703483": {
+      "eligible_transactions": 2226,
+      "days": 7,
+      "mashgin_transactions": 55,
+      "percent_eli": "2.47"
+  },
+  "2703484": {
+      "mashgin_transactions": 8,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2703485": {
+      "eligible_transactions": 26306,
+      "days": 122,
+      "mashgin_transactions": 4486,
+      "percent_eli": "17.05"
+  },
+  "2703486": {
+      "eligible_transactions": 55401,
+      "days": 122,
+      "mashgin_transactions": 7833,
+      "percent_eli": "14.14"
+  },
+  "2703487": {
+      "eligible_transactions": 26524,
+      "days": 76,
+      "mashgin_transactions": 360,
+      "percent_eli": "1.36"
+  },
+  "2703488": {
+      "eligible_transactions": 19153,
+      "days": 55,
+      "mashgin_transactions": 1689,
+      "percent_eli": "8.82"
+  },
+  "2703489": {
+      "eligible_transactions": 17549,
+      "days": 56,
+      "mashgin_transactions": 1354,
+      "percent_eli": "7.72"
+  },
+  "2703490": {
+      "eligible_transactions": 37887,
+      "days": 79,
+      "mashgin_transactions": 2808,
+      "percent_eli": "7.41"
+  },
+  "2703491": {
+      "eligible_transactions": 26441,
+      "days": 58,
+      "mashgin_transactions": 2000,
+      "percent_eli": "7.56"
+  },
+  "2703492": {
+      "eligible_transactions": 28846,
+      "days": 90,
+      "mashgin_transactions": 4851,
+      "percent_eli": "16.82"
+  },
+  "2703493": {
+      "eligible_transactions": 19837,
+      "days": 71,
+      "mashgin_transactions": 890,
+      "percent_eli": "4.49"
+  },
+  "2703495": {
+      "eligible_transactions": 33553,
+      "days": 56,
+      "mashgin_transactions": 3078,
+      "percent_eli": "9.17"
+  },
+  "2703735": {
+      "eligible_transactions": 9097,
+      "days": 20,
+      "mashgin_transactions": 73,
+      "percent_eli": "0.80"
+  },
+  "2705024": {
+      "eligible_transactions": 3310,
+      "days": 21,
+      "mashgin_transactions": 69,
+      "percent_eli": "2.08"
+  },
+  "2705298": {
+      "mashgin_transactions": 51,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2705301": {
+      "eligible_transactions": 23060,
+      "days": 122,
+      "mashgin_transactions": 2116,
+      "percent_eli": "9.18"
+  },
+  "2705318": {
+      "eligible_transactions": 2445,
+      "days": 7,
+      "mashgin_transactions": 33,
+      "percent_eli": "1.35"
+  },
+  "2705319": {
+      "eligible_transactions": 1935,
+      "days": 7,
+      "mashgin_transactions": 97,
+      "percent_eli": "5.01"
+  },
+  "2705394": {
+      "eligible_transactions": 1679,
+      "days": 13,
+      "mashgin_transactions": 78,
+      "percent_eli": "4.65"
+  },
+  "2705400": {
+      "mashgin_transactions": 29,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2705540": {
+      "mashgin_transactions": 33,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2705544": {
+      "eligible_transactions": 9503,
+      "days": 21,
+      "mashgin_transactions": 118,
+      "percent_eli": "1.24"
+  },
+  "2705578": {
+      "eligible_transactions": 30644,
+      "days": 75,
+      "mashgin_transactions": 889,
+      "percent_eli": "2.90"
+  },
+  "2705766": {
+      "eligible_transactions": 8737,
+      "days": 21,
+      "mashgin_transactions": 145,
+      "percent_eli": "1.66"
+  },
+  "2705795": {
+      "eligible_transactions": 6685,
+      "days": 21,
+      "mashgin_transactions": 134,
+      "percent_eli": "2.00"
+  },
+  "2705915": {
+      "eligible_transactions": 9913,
+      "days": 19,
+      "mashgin_transactions": 238,
+      "percent_eli": "2.40"
+  },
+  "2705918": {
+      "eligible_transactions": 36941,
+      "days": 90,
+      "mashgin_transactions": 2300,
+      "percent_eli": "6.23"
+  },
+  "2706056": {
+      "eligible_transactions": 3785,
+      "days": 15,
+      "mashgin_transactions": 316,
+      "percent_eli": "8.35"
+  },
+  "2706064": {
+      "eligible_transactions": 2708,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2706348": {
+      "mashgin_transactions": 10,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2706359": {
+      "eligible_transactions": 7655,
+      "days": 21,
+      "mashgin_transactions": 67,
+      "percent_eli": "0.88"
+  },
+  "2706361": {
+      "eligible_transactions": 7007,
+      "days": 22,
+      "mashgin_transactions": 161,
+      "percent_eli": "2.30"
+  },
+  "2706362": {
+      "eligible_transactions": 9586,
+      "days": 22,
+      "mashgin_transactions": 118,
+      "percent_eli": "1.23"
+  },
+  "2706458": {
+      "eligible_transactions": 7146,
+      "days": 21,
+      "mashgin_transactions": 450,
+      "percent_eli": "6.30"
+  },
+  "2706459": {
+      "eligible_transactions": 8844,
+      "days": 22,
+      "mashgin_transactions": 103,
+      "percent_eli": "1.16"
+  },
+  "2706461": {
+      "eligible_transactions": 9075,
+      "days": 22,
+      "mashgin_transactions": 184,
+      "percent_eli": "2.03"
+  },
+  "2706469": {
+      "eligible_transactions": 2108,
+      "days": 7,
+      "mashgin_transactions": 57,
+      "percent_eli": "2.70"
+  },
+  "2706470": {
+      "mashgin_transactions": 43,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2706640": {
+      "eligible_transactions": 11007,
+      "days": 19,
+      "mashgin_transactions": 271,
+      "percent_eli": "2.46"
+  },
+  "2706642": {
+      "mashgin_transactions": 178,
+      "days": 27,
+      "percent_eli": 0
+  },
+  "2706651": {
+      "mashgin_transactions": 22,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2706661": {
+      "mashgin_transactions": 8,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2706670": {
+      "eligible_transactions": 28524,
+      "days": 56,
+      "mashgin_transactions": 998,
+      "percent_eli": "3.50"
+  },
+  "2706671": {
+      "eligible_transactions": 11471,
+      "days": 19,
+      "mashgin_transactions": 127,
+      "percent_eli": "1.11"
+  },
+  "2706672": {
+      "eligible_transactions": 11025,
+      "days": 20,
+      "mashgin_transactions": 46,
+      "percent_eli": "0.42"
+  },
+  "2708511": {
+      "mashgin_transactions": 16,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2708514": {
+      "mashgin_transactions": 130,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2708518": {
+      "eligible_transactions": 6703,
+      "days": 20,
+      "mashgin_transactions": 51,
+      "percent_eli": "0.76"
+  },
+  "2708556": {
+      "eligible_transactions": 7052,
+      "days": 19,
+      "mashgin_transactions": 110,
+      "percent_eli": "1.56"
+  },
+  "2708587": {
+      "mashgin_transactions": 26,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2708593": {
+      "mashgin_transactions": 190,
+      "days": 23,
+      "percent_eli": 0
+  },
+  "2708594": {
+      "mashgin_transactions": 13,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2708648": {
+      "mashgin_transactions": 38,
+      "days": 5,
+      "percent_eli": 0
+  },
+  "2708650": {
+      "eligible_transactions": 1513,
+      "days": 13,
+      "mashgin_transactions": 26,
+      "percent_eli": "1.72"
+  },
+  "2708692": {
+      "eligible_transactions": 8483,
+      "days": 20,
+      "mashgin_transactions": 195,
+      "percent_eli": "2.30"
+  },
+  "2708744": {
+      "mashgin_transactions": 142,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2708746": {
+      "mashgin_transactions": 103,
+      "days": 23,
+      "percent_eli": 0
+  },
+  "2708768": {
+      "eligible_transactions": 1758,
+      "days": 12,
+      "mashgin_transactions": 61,
+      "percent_eli": "3.47"
+  },
+  "2708776": {
+      "eligible_transactions": 17435,
+      "days": 78,
+      "mashgin_transactions": 729,
+      "percent_eli": "4.18"
+  },
+  "2708778": {
+      "mashgin_transactions": 6,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2708834": {
+      "eligible_transactions": 12639,
+      "days": 122,
+      "mashgin_transactions": 970,
+      "percent_eli": "7.67"
+  },
+  "2708850": {
+      "eligible_transactions": 29779,
+      "days": 70,
+      "mashgin_transactions": 2401,
+      "percent_eli": "8.06"
+  },
+  "2708869": {
+      "mashgin_transactions": 21,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2709154": {
+      "eligible_transactions": 5676,
+      "days": 21,
+      "mashgin_transactions": 102,
+      "percent_eli": "1.80"
+  },
+  "2709161": {
+      "eligible_transactions": 30231,
+      "days": 79,
+      "mashgin_transactions": 3475,
+      "percent_eli": "11.49"
+  },
+  "2709169": {
+      "eligible_transactions": 29250,
+      "days": 77,
+      "mashgin_transactions": 652,
+      "percent_eli": "2.23"
+  },
+  "2709170": {
+      "eligible_transactions": 30688,
+      "days": 76,
+      "mashgin_transactions": 612,
+      "percent_eli": "1.99"
+  },
+  "2709173": {
+      "eligible_transactions": 5805,
+      "days": 22,
+      "mashgin_transactions": 189,
+      "percent_eli": "3.26"
+  },
+  "2709177": {
+      "mashgin_transactions": 173,
+      "days": 21,
+      "percent_eli": 0
+  },
+  "2709179": {
+      "mashgin_transactions": 142,
+      "days": 23,
+      "percent_eli": 0
+  },
+  "2709181": {
+      "eligible_transactions": 8013,
+      "days": 19,
+      "mashgin_transactions": 278,
+      "percent_eli": "3.47"
+  },
+  "2709189": {
+      "eligible_transactions": 9578,
+      "days": 19,
+      "mashgin_transactions": 95,
+      "percent_eli": "0.99"
+  },
+  "2709192": {
+      "eligible_transactions": 9002,
+      "days": 19,
+      "mashgin_transactions": 63,
+      "percent_eli": "0.70"
+  },
+  "2709523": {
+      "eligible_transactions": 23994,
+      "days": 76,
+      "mashgin_transactions": 1653,
+      "percent_eli": "6.89"
+  },
+  "2709524": {
+      "eligible_transactions": 16877,
+      "days": 69,
+      "mashgin_transactions": 1064,
+      "percent_eli": "6.30"
+  },
+  "2709525": {
+      "eligible_transactions": 28859,
+      "days": 58,
+      "mashgin_transactions": 1641,
+      "percent_eli": "5.69"
+  },
+  "2709526": {
+      "eligible_transactions": 26006,
+      "days": 56,
+      "mashgin_transactions": 3911,
+      "percent_eli": "15.04"
+  },
+  "2709528": {
+      "eligible_transactions": 29163,
+      "days": 71,
+      "mashgin_transactions": 4572,
+      "percent_eli": "15.68"
+  },
+  "2709529": {
+      "eligible_transactions": 7084,
+      "days": 19,
+      "mashgin_transactions": 189,
+      "percent_eli": "2.67"
+  },
+  "2709530": {
+      "eligible_transactions": 35042,
+      "days": 57,
+      "mashgin_transactions": 2641,
+      "percent_eli": "7.54"
+  },
+  "2709533": {
+      "eligible_transactions": 14449,
+      "days": 68,
+      "mashgin_transactions": 1463,
+      "percent_eli": "10.13"
+  },
+  "2709534": {
+      "eligible_transactions": 2343,
+      "days": 13,
+      "mashgin_transactions": 48,
+      "percent_eli": "2.05"
+  },
+  "2709538": {
+      "mashgin_transactions": 11,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2741604": {
+      "eligible_transactions": 27678,
+      "days": 122,
+      "mashgin_transactions": 5155,
+      "percent_eli": "18.62"
+  },
+  "2741610": {
+      "eligible_transactions": 41817,
+      "days": 122,
+      "mashgin_transactions": 4983,
+      "percent_eli": "11.92"
+  },
+  "2741630": {
+      "mashgin_transactions": 84,
+      "days": 23,
+      "percent_eli": 0
+  },
+  "2741639": {
+      "eligible_transactions": 13008,
+      "days": 19,
+      "mashgin_transactions": 113,
+      "percent_eli": "0.87"
+  },
+  "2741641": {
+      "eligible_transactions": 8105,
+      "days": 20,
+      "mashgin_transactions": 52,
+      "percent_eli": "0.64"
+  },
+  "2741642": {
+      "eligible_transactions": 34593,
+      "days": 122,
+      "mashgin_transactions": 8248,
+      "percent_eli": "23.84"
+  },
+  "2741650": {
+      "mashgin_transactions": 17,
+      "days": null,
+      "percent_eli": 0
+  },
+  "2741655": {
+      "eligible_transactions": 9017,
+      "days": 22,
+      "mashgin_transactions": 170,
+      "percent_eli": "1.89"
+  },
+  "2741657": {
+      "mashgin_transactions": 21,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "2741669": {
+      "eligible_transactions": 23775,
+      "days": 72,
+      "mashgin_transactions": 2411,
+      "percent_eli": "10.14"
+  },
+  "2741676": {
+      "eligible_transactions": 12053,
+      "days": 22,
+      "mashgin_transactions": 202,
+      "percent_eli": "1.68"
+  },
+  "2741683": {
+      "eligible_transactions": 15597,
+      "days": 20,
+      "mashgin_transactions": 117,
+      "percent_eli": "0.75"
+  },
+  "4705201": {
+      "eligible_transactions": 1574,
+      "days": 8,
+      "mashgin_transactions": 65,
+      "percent_eli": "4.13"
+  },
+  "4705232": {
+      "eligible_transactions": 1813,
+      "days": 7,
+      "mashgin_transactions": 22,
+      "percent_eli": "1.21"
+  },
+  "4705237": {
+      "mashgin_transactions": 635,
+      "days": 41,
+      "percent_eli": 0
+  },
+  "4705238": {
+      "mashgin_transactions": 63,
+      "days": 26,
+      "percent_eli": 0
+  },
+  "4705273": {
+      "eligible_transactions": 1166,
+      "days": 9,
+      "mashgin_transactions": 12,
+      "percent_eli": "1.03"
+  },
+  "4705297": {
+      "eligible_transactions": 824,
+      "days": 7,
+      "mashgin_transactions": 37,
+      "percent_eli": "4.49"
+  },
+  "4705332": {
+      "mashgin_transactions": 77,
+      "days": 26,
+      "percent_eli": 0
+  },
+  "4705335": {
+      "mashgin_transactions": 134,
+      "days": 8,
+      "percent_eli": 0
+  },
+  "4705370": {
+      "mashgin_transactions": 49,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "4705379": {
+      "eligible_transactions": 981,
+      "days": 7,
+      "mashgin_transactions": 34,
+      "percent_eli": "3.47"
+  },
+  "4705380": {
+      "eligible_transactions": 7519,
+      "days": 28,
+      "mashgin_transactions": 94,
+      "percent_eli": "1.25"
+  },
+  "4705381": {
+      "eligible_transactions": 5840,
+      "days": 40,
+      "mashgin_transactions": 235,
+      "percent_eli": "4.02"
+  },
+  "4705385": {
+      "mashgin_transactions": 44,
+      "days": 27,
+      "percent_eli": 0
+  },
+  "4705386": {
+      "mashgin_transactions": 13,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "4705400": {
+      "mashgin_transactions": 42,
+      "days": 6,
+      "percent_eli": 0
+  },
+  "4705402": {
+      "mashgin_transactions": 111,
+      "days": 27,
+      "percent_eli": 0
+  },
+  "4705407": {
+      "eligible_transactions": 7782,
+      "days": 42,
+      "mashgin_transactions": 98,
+      "percent_eli": "1.26"
+  },
+  "4705575": {
+      "eligible_transactions": 22858,
+      "days": 122,
+      "mashgin_transactions": 1673,
+      "percent_eli": "7.32"
+  },
+  "4705577": {
+      "eligible_transactions": 8094,
+      "days": 28,
+      "mashgin_transactions": 64,
+      "percent_eli": "0.79"
+  },
+  "4705580": {
+      "eligible_transactions": 12415,
+      "days": 28,
+      "mashgin_transactions": 104,
+      "percent_eli": "0.84"
+  },
+  "4705581": {
+      "mashgin_transactions": 265,
+      "days": 43,
+      "percent_eli": 0
+  },
+  "4705584": {
+      "mashgin_transactions": 319,
+      "days": 43,
+      "percent_eli": 0
+  },
+  "4705587": {
+      "eligible_transactions": 13999,
+      "days": 122,
+      "mashgin_transactions": 1858,
+      "percent_eli": "13.27"
+  },
+  "4705589": {
+      "mashgin_transactions": 342,
+      "days": 43,
+      "percent_eli": 0
+  },
+  "4705601": {
+      "mashgin_transactions": 84,
+      "days": 43,
+      "percent_eli": 0
+  },
+  "4705609": {
+      "eligible_transactions": 17746,
+      "days": 122,
+      "mashgin_transactions": 1156,
+      "percent_eli": "6.51"
+  },
+  "4705610": {
+      "eligible_transactions": 9176,
+      "days": 28,
+      "mashgin_transactions": 41,
+      "percent_eli": "0.45"
+  },
+  "4705620": {
+      "mashgin_transactions": 9,
+      "days": 27,
+      "percent_eli": 0
+  },
+  "4705622": {
+      "mashgin_transactions": 110,
+      "days": 27,
+      "percent_eli": 0
+  },
+  "4705624": {
+      "eligible_transactions": 23119,
+      "days": 122,
+      "mashgin_transactions": 1013,
+      "percent_eli": "4.38"
+  },
+  "4705627": {
+      "eligible_transactions": 8045,
+      "days": 79,
+      "mashgin_transactions": 301,
+      "percent_eli": "3.74"
+  },
+  "4705630": {
+      "eligible_transactions": 19501,
+      "days": 77,
+      "mashgin_transactions": 349,
+      "percent_eli": "1.79"
+  },
+  "4705672": {
+      "eligible_transactions": 12903,
+      "days": 77,
+      "mashgin_transactions": 1127,
+      "percent_eli": "8.73"
+  },
+  "4705681": {
+      "eligible_transactions": 15936,
+      "days": 77,
+      "mashgin_transactions": 787,
+      "percent_eli": "4.94"
+  },
+  "4705693": {
+      "eligible_transactions": 17284,
+      "days": 122,
+      "mashgin_transactions": 1055,
+      "percent_eli": "6.10"
+  },
+  "4705694": {
+      "eligible_transactions": 17755,
+      "days": 76,
+      "mashgin_transactions": 23,
+      "percent_eli": "0.13"
+  },
+  "4705702": {
+      "eligible_transactions": 29177,
+      "days": 122,
+      "mashgin_transactions": 681,
+      "percent_eli": "2.33"
+  },
+  "4705703": {
+      "eligible_transactions": 10962,
+      "days": 42,
+      "mashgin_transactions": 109,
+      "percent_eli": "0.99"
+  },
+  "4705709": {
+      "mashgin_transactions": 149,
+      "days": 41,
+      "percent_eli": 0
+  },
+  "4706316": {
+      "eligible_transactions": 15383,
+      "days": 57,
+      "mashgin_transactions": 899,
+      "percent_eli": "5.84"
+  },
+  "4706318": {
+      "eligible_transactions": 10672,
+      "days": 56,
+      "mashgin_transactions": 1009,
+      "percent_eli": "9.45"
+  },
+  "4707206": {
+      "eligible_transactions": 14949,
+      "days": 80,
+      "mashgin_transactions": 531,
+      "percent_eli": "3.55"
+  },
+  "4707214": {
+      "eligible_transactions": 30899,
+      "days": 78,
+      "mashgin_transactions": 556,
+      "percent_eli": "1.80"
+  },
+  "4707223": {
+      "eligible_transactions": 19217,
+      "days": 82,
+      "mashgin_transactions": 395,
+      "percent_eli": "2.06"
+  },
+  "4707226": {
+      "eligible_transactions": 17990,
+      "days": 90,
+      "mashgin_transactions": 143,
+      "percent_eli": "0.79"
+  },
+  "4707232": {
+      "eligible_transactions": 14380,
+      "days": 89,
+      "mashgin_transactions": 342,
+      "percent_eli": "2.38"
+  },
+  "4707235": {
+      "eligible_transactions": 10083,
+      "days": 86,
+      "mashgin_transactions": 301,
+      "percent_eli": "2.99"
+  }
+}
